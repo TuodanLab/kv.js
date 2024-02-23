@@ -1,12 +1,12 @@
 {
-  "name": "@heyputer/kv.js",
+  "name": "@tuodanlab/kv.js",
   "version": "0.1.6",
   "license": "MIT",
   "description": "Fast, modern, in-memory key-value store for JavaScript. The perfect solution for caching in JavaScript.",
   "main": "kv.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/HeyPuter/kv.js.git"
+    "url": "https://github.com/TuodanLab/kv.js.git"
   },
   "scripts": {
     "test": "mocha --timeout 60000 ./test/*.test.js",
@@ -17,7 +17,7 @@
     "nodejs",
     "javascript"
   ],
-  "author": "Nariman Jelveh",
+  "author": "xavier",
   "dependencies": {
     "minimatch": "^9.0.0"
   },
