@@ -7,13 +7,13 @@ KV.JS is a fast, in-memory data store written in pure JavaScript, heavily inspir
 ## Installation
 
 ```bash
-npm install @heyputer/kv.js
+npm install @tuodanlab/kv.js
 ```
 
 ## Usage
 
 ```javascript
-const kvjs = require("@heyputer/kv.js");
+const kvjs = require("@tuodanlab/kv.js");
 
 // Create a new kv.js instance
 const kv = new kvjs();
